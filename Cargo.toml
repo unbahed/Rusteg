@@ -1,0 +1,10 @@
+[package]
+name = "Rusteg"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = "4.5.32"
+image = "0.25.5"
+pgp-lib = "1.0.0"
+rgb = "0.8.50"
